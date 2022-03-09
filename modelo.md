@@ -8,7 +8,9 @@
 
 ### Estrutura
 
+![Estrutura ]()
 
+<sub><sup>* imagem de https://refactoring.guru</sup></sub>
 
 ### Prós
 
@@ -20,7 +22,7 @@
 
 #### Mais informações
 
-
+[Refactoring.Guru / ]()
 
 ### Código de exemplo em java
 

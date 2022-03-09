@@ -1,4 +1,4 @@
-package br.com.hioktec.designpatterns.criacionais.abstractfactory.demo;
+package br.com.hioktec.designpatterns.criacionais.abstractfactory;
 
 import br.com.hioktec.designpatterns.criacionais.abstractfactory.app.Application;
 import br.com.hioktec.designpatterns.criacionais.abstractfactory.factories.GUIFactory;

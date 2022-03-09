@@ -1,4 +1,4 @@
-package br.com.hioktec.designpatterns.criacionais.factorymethod.demo;
+package br.com.hioktec.designpatterns.criacionais.factorymethod;
 
 import br.com.hioktec.designpatterns.criacionais.factorymethod.factories.Dialog;
 import br.com.hioktec.designpatterns.criacionais.factorymethod.factories.HtmlDialog;

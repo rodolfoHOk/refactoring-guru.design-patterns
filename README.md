@@ -26,6 +26,9 @@ Os padrões de projeto são um kit de ferramentas para soluções tentadas e tes
 
 - [Builder](builder.md): permite a você construir objetos complexos passo a passo. O padrão permite que você produza diferentes tipos e representações de um objeto usando o mesmo código de construção.
 
+
+- [Prototype](prototype.md): permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes.
+
 ### Padrões estruturais
 
 
