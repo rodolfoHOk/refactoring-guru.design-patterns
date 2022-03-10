@@ -1,4 +1,4 @@
-## Nome do Design Pattern
+## 
 
 
 
@@ -26,4 +26,4 @@
 
 ### Código de exemplo em java
 
-> src/main/java/br/com/hioktec/designpatterns/
+> src/main/java/br/com/hioktec/designpatterns/estruturais/

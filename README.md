@@ -12,7 +12,9 @@ Os padrões de projeto são um kit de ferramentas para soluções tentadas e tes
 
 - Padrões criacionais: fornecem mecanismos de criação de objetos que aumentam a flexibilidade e a reutilização de código.
 
+
 - Padrões estruturais: explicam como montar objetos e classes em estruturas maiores, enquanto ainda mantém as estruturas flexíveis e eficientes.
+
 
 - Padrões comportamentais: cuidam da comunicação eficiente e da assinalação de responsabilidades entre objetos.
 
@@ -34,6 +36,10 @@ Os padrões de projeto são um kit de ferramentas para soluções tentadas e tes
 
 ### Padrões estruturais
 
+- [Adapter](adapter.md): permite objetos com interfaces incompatíveis colaborarem entre si.
+
+
+- [Bridge](bridge.md): permite que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas, abstração e implementação, que podem ser desenvolvidas independentemente umas das outras.
 
 ### Padrões comportamentais
 
