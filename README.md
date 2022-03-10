@@ -29,6 +29,9 @@ Os padrões de projeto são um kit de ferramentas para soluções tentadas e tes
 
 - [Prototype](prototype.md): permite copiar objetos existentes sem fazer seu código ficar dependente de suas classes.
 
+
+- [Singleton](singleton.md): permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância.
+
 ### Padrões estruturais
 
 

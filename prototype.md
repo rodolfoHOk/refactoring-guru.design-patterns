@@ -51,3 +51,5 @@ Copiando formas gráficas
 O padrão Prototype está disponível e pronto para uso em Java com a interface Cloneable.
 
 Vamos dar uma olhada em como o Prototype pode ser implementado sem a interface Cloneable padrão.
+
+> src/main/java/br/com/hioktec/designpatterns/criacionais/prototype
