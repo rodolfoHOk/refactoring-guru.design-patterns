@@ -57,5 +57,10 @@ Os padrões de projeto são um kit de ferramentas para soluções tentadas e tes
 - [Proxy](proxy.md): permite que você forneça um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo ou antes ou depois do pedido chegar ao objeto original.
 
 
-### Padrões comportamentaiss
+### Padrões comportamentais
+
+- [Chain of Responsibility](chainOfResponsibility.md): permite que você passe pedidos por uma corrente de handlers. Ao receber um pedido, cada handler decide se processa o pedido ou o passa adiante para o próximo handler na corrente.
+
+
+- [Command](command.md): transforma um pedido em um objeto independente que contém toda a informação sobre o pedido. Essa transformação permite que você parametrize métodos com diferentes pedidos, atrase ou coloque a execução do pedido em uma fila, e suporte operações que não podem ser feitas.
 
