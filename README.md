@@ -47,5 +47,15 @@ Os padrões de projeto são um kit de ferramentas para soluções tentadas e tes
 
 - [Decorator](decorator.md): permite que você acople novos comportamentos para objetos ao colocá-los dentro de invólucros de objetos que contém os comportamentos.
 
-### Padrões comportamentais
+
+- [Facade](facade.md): fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes
+
+
+- [Flyweight](flyweight.md): permite a você colocar mais objetos na quantidade de RAM disponível ao compartilhar partes comuns de estado entre os múltiplos objetos ao invés de manter todos os dados em cada objeto.
+
+
+- [Proxy](proxy.md): permite que você forneça um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo ou antes ou depois do pedido chegar ao objeto original.
+
+
+### Padrões comportamentaiss
 

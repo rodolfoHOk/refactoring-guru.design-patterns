@@ -26,4 +26,4 @@
 
 ### Código de exemplo em java
 
-> src/main/java/br/com/hioktec/designpatterns/estruturais/
+> src/main/java/br/com/hioktec/designpatterns/comportamentais/
