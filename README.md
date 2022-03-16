@@ -64,3 +64,11 @@ Os padrões de projeto são um kit de ferramentas para soluções tentadas e tes
 
 - [Command](command.md): transforma um pedido em um objeto independente que contém toda a informação sobre o pedido. Essa transformação permite que você parametrize métodos com diferentes pedidos, atrase ou coloque a execução do pedido em uma fila, e suporte operações que não podem ser feitas.
 
+
+- [Iterator](iterator.md): permite a você percorrer elementos de uma coleção sem expor as representações dele (lista, pilha, árvore, etc.)
+
+
+- [Mediator](mediator.md): permite que você reduza as dependências caóticas entre objetos. O padrão restringe comunicações diretas entre objetos e os força a colaborar apenas através do objeto mediador.
+
+
+- [Memento](memento.md): permite que você salve e restaure o estado anterior de um objeto sem revelar os detalhes de sua implementação.
