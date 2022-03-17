@@ -72,3 +72,15 @@ Os padrões de projeto são um kit de ferramentas para soluções tentadas e tes
 
 
 - [Memento](memento.md): permite que você salve e restaure o estado anterior de um objeto sem revelar os detalhes de sua implementação.
+
+
+- [Observer](observer.md): permite que você defina um mecanismo de assinatura para notificar múltiplos objetos sobre quaisquer eventos que aconteçam com o objeto que eles estão observando.
+
+
+- [State](state.md): permite que um objeto altere seu comportamento quando seu estado interno muda. Parece como se o objeto mudasse de classe.
+
+
+- [Strategy](strategy.md): permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça os objetos deles intercambiáveis.
+
+
+- continua...
