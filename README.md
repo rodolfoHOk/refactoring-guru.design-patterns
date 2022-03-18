@@ -83,4 +83,7 @@ Os padrões de projeto são um kit de ferramentas para soluções tentadas e tes
 - [Strategy](strategy.md): permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça os objetos deles intercambiáveis.
 
 
-- continua...
+- [Template Method](templateMethod.md): define o esqueleto de um algoritmo na superclasse mas deixa as subclasses sobrescreverem etapas específicas do algoritmo sem modificar sua estrutura.
+
+
+- [Visitor](visitor.md): permite que você separe algoritmos dos objetos nos quais eles operam.
